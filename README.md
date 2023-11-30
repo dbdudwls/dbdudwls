@@ -16,25 +16,7 @@
 
 [Notion포트폴리오](https://road-tellurium-688.notion.site/cc73f976dd27459fa94f590553e2ddac?pvs=4)
 
-
-
-☎️ 연락처
-
-010-9370-9580
-
-📧 Email
-
-dbdudwls007@gmail.com
-
-🐱 GitHub
-
-https://github.com/dbdudwls
-
-🍀 NaverBlog
-
-https://blog.naver.com/xxx4408
-
-
+---
 
 🔆 **Stacks**
 - ![java](https://img.shields.io/badge/-Java-yellow?logo=eclipseide) ![spring](https://img.shields.io/badge/-Spring-brown?logo=spring)
@@ -61,4 +43,22 @@ https://blog.naver.com/xxx4408
       
 - ![Embedded](https://img.shields.io/badge/-Embedded-green?logo=raspberrypi)
     - 아두이노와 라즈베리파이등 다양한 임베디드 시스템을 작업한 경험이 있습니다.
+ 
+---
+ 
+☎️ 연락처
+
+010-9370-9580
+
+📧 Email
+
+dbdudwls007@gmail.com
+
+🐱 GitHub
+
+https://github.com/dbdudwls
+
+🍀 NaverBlog
+
+https://blog.naver.com/xxx4408
 
