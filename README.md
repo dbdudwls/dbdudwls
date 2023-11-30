@@ -5,14 +5,15 @@
 ### 안녕하세요 Junior Developer 유영진입니다.
 
 
-  
-👋 **Profile**  
-홍익대학교 화학공학과 졸업 (2012.03 ~ 2020.02)  
-스마트인재개발원 수료 (2022.12 ~ 2023.06)  
-그리다 에너지 (2023.09 ~ 재직)  
 
+👋 **Profile**
 
-  
+홍익대학교 화학공학과 졸업 (2012.03 ~ 2020.02)
+
+스마트인재개발원 수료 (2022.12 ~ 2023.06)
+
+그리다 에너지 (2023.09 ~ 재직)
+
 
 🔆 **Stacks**
 - ![java](https://img.shields.io/badge/-Java-yellow?logo=eclipseide) ![spring](https://img.shields.io/badge/-Spring-brown?logo=spring)
