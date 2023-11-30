@@ -14,6 +14,27 @@
 
 그리다 에너지 (2023.09 ~ 재직)
 
+[Notion포트폴리오](https://road-tellurium-688.notion.site/cc73f976dd27459fa94f590553e2ddac?pvs=4)
+
+
+
+☎️ 연락처
+
+010-9370-9580
+
+📧 Email
+
+dbdudwls007@gmail.com
+
+🐱 GitHub
+
+https://github.com/dbdudwls
+
+🍀 NaverBlog
+
+https://blog.naver.com/xxx4408
+
+
 
 🔆 **Stacks**
 - ![java](https://img.shields.io/badge/-Java-yellow?logo=eclipseide) ![spring](https://img.shields.io/badge/-Spring-brown?logo=spring)
